@@ -201,7 +201,7 @@ $ git pull
 
 ## 部署到 Heroku
 
-[![Deploy](https://i.imgur.com/e6ZcmUY.png)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2FDIYgod%2FRSSHub)
+[![Deploy](https://i.imgur.com/e6ZcmUY.png)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fmglinsc%2FRSSHub)
 
 ## 部署到 Google App Engine
 
